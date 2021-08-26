@@ -1,14 +1,14 @@
 {
 	"pluginName": "diff",
-	"description": "文本对比",
+	"description": "简易文本、代码对比工具",
 	"author": "HandsomeWalker",
 	"main": "index.html",
-	"version": "1.0.0",
+	"version": "1.5.0",
 	"logo": "logo.png",
 	"features": [
 		{
 		  "code": "diff",
-		  "explain": "code diff",
+		  "explain": "简易文本、代码对比工具",
 			"cmds":["diff", "对比", "比较", {"type": "over", "label": "diff"}]
 		}
 	]
