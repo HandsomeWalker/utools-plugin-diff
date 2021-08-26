@@ -1,4 +1,4 @@
-utools插件，简单文本对比工具
+utools插件，简单文本、代码对比工具
 
 ![diff](https://handsomeimg-1256187680.cos.ap-chengdu.myqcloud.com/5.png)
 # 安装
