@@ -1,16 +1,16 @@
 {
   "name": "diff",
-  "version": "0.1.0",
+  "version": "1.6.0",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build"
   },
   "dependencies": {
-    "codemirror": "^5.62.3",
-    "core-js": "^3.16.3",
+    "codemirror": "^5.65.2",
+    "core-js": "^3.21.1",
     "diff-match-patch": "^1.0.5",
-    "element-ui": "^2.15.5",
+    "element-ui": "^2.15.6",
     "vue": "^2.6.14"
   },
   "devDependencies": {
